@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supplylens-compliance-monitor"
+version = "0.1.0"
+description = "Automated supply chain compliance monitoring: configurable rules, name screening for human review, findings workflow with an audit trail."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Md Abdur Rauf" }]
+keywords = ["compliance", "supply chain", "trade documents", "rules engine", "name screening", "audit trail"]
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scikit-learn>=1.4"]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.50", "plotly>=5.20"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+compliance-monitor = "compliance_monitor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
