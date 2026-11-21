@@ -1,0 +1,17 @@
+rule_id,title,category,records_checked,true_violations,flagged,true_positives,false_positives,missed,precision,recall,false_positives_per_1000
+DOC-01,Shipment documents on file,document completeness,5000,125,125,125,0,0,1.0,1.0,0.0
+DOC-02,Code of conduct acknowledged,document completeness,60,6,6,6,0,0,1.0,1.0,0.0
+DOC-03,Material declaration on file,document completeness,120,8,8,8,0,0,1.0,1.0,0.0
+EXP-01,Certificate expired,expiry,145,9,9,9,0,0,1.0,1.0,0.0
+EXP-02,Certificate expiring soon,expiry,145,6,6,6,0,0,1.0,1.0,0.0
+EXP-03,Insurance expired,expiry,60,5,5,5,0,0,1.0,1.0,0.0
+EXP-04,Supplier audit overdue,expiry,60,6,6,6,0,0,1.0,1.0,0.0
+EXP-05,Material declaration out of date,expiry,120,7,7,7,0,0,1.0,1.0,0.0
+CON-01,Tariff code format,data consistency,5000,60,60,60,0,0,1.0,1.0,0.0
+CON-02,Origin differs from supplier's countries,data consistency,5000,75,147,75,72,0,0.5102040816326531,1.0,14.4
+CON-03,Declared unit value out of line,data consistency,5000,75,74,66,8,9,0.8918918918918919,0.88,1.6
+CON-04,Description does not fit tariff chapter,data consistency,5000,75,64,62,2,13,0.96875,0.8266666666666667,0.4
+TIM-01,Filed after deadline,timeliness,5000,100,100,100,0,0,1.0,1.0,0.0
+RET-01,Records purged before retention period,record retention,5000,30,30,30,0,0,1.0,1.0,0.0
+SCR-01,Name resembles a screening-list entry,screening,60,8,10,7,3,1,0.7,0.875,50.0
+ALL,All rules together,,35770,595,657,572,85,23,0.8706240487062404,0.9613445378151261,2.3762929829466035
