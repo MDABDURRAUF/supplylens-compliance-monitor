@@ -1,0 +1,146 @@
+certificate_id,supplier_id,certificate_type,issue_date,expiry_date
+CERT-0001,SUP-001,Social compliance audit certificate,2024-02-20,2027-02-19
+CERT-0002,SUP-001,Quality management certificate,2025-02-27,2028-02-27
+CERT-0003,SUP-002,Social compliance audit certificate,2023-09-28,2026-09-27
+CERT-0004,SUP-002,Quality management certificate,2024-10-07,2027-10-07
+CERT-0005,SUP-003,Social compliance audit certificate,2024-11-21,2027-11-21
+CERT-0006,SUP-003,Environmental management certificate,2025-01-24,2028-01-24
+CERT-0007,SUP-004,Social compliance audit certificate,2024-03-12,2027-03-12
+CERT-0008,SUP-004,Quality management certificate,2025-01-15,2028-01-15
+CERT-0009,SUP-005,Quality management certificate,2024-02-15,2027-02-14
+CERT-0010,SUP-005,Environmental management certificate,2024-10-17,2026-07-05
+CERT-0011,SUP-005,Social compliance audit certificate,2024-09-06,2027-09-06
+CERT-0012,SUP-006,Quality management certificate,2023-09-19,2026-09-18
+CERT-0013,SUP-006,Social compliance audit certificate,2024-03-27,2027-03-27
+CERT-0014,SUP-006,Environmental management certificate,2024-01-04,2027-01-03
+CERT-0015,SUP-007,Social compliance audit certificate,2024-06-30,2027-06-30
+CERT-0016,SUP-007,Environmental management certificate,2023-09-29,2026-09-28
+CERT-0017,SUP-008,Environmental management certificate,2024-10-07,2027-10-07
+CERT-0018,SUP-008,Quality management certificate,2024-07-05,2027-07-05
+CERT-0019,SUP-009,Quality management certificate,2023-12-06,2026-12-05
+CERT-0020,SUP-009,Environmental management certificate,2025-04-23,2028-04-22
+CERT-0021,SUP-010,Social compliance audit certificate,2023-08-31,2026-08-30
+CERT-0022,SUP-010,Environmental management certificate,2023-08-23,2028-05-11
+CERT-0023,SUP-011,Quality management certificate,2024-06-20,2027-06-20
+CERT-0024,SUP-011,Social compliance audit certificate,2025-02-20,2026-07-15
+CERT-0025,SUP-012,Environmental management certificate,2023-11-29,2026-11-28
+CERT-0026,SUP-012,Quality management certificate,2023-08-30,2026-08-29
+CERT-0027,SUP-013,Environmental management certificate,2023-12-13,2026-12-12
+CERT-0028,SUP-013,Social compliance audit certificate,2024-06-04,2027-06-04
+CERT-0029,SUP-014,Environmental management certificate,2024-06-18,2027-06-18
+CERT-0030,SUP-014,Quality management certificate,2025-01-31,2028-01-31
+CERT-0031,SUP-014,Social compliance audit certificate,2024-10-27,2027-10-27
+CERT-0032,SUP-015,Social compliance audit certificate,2025-03-22,2028-03-21
+CERT-0033,SUP-015,Environmental management certificate,2024-09-02,2027-09-02
+CERT-0034,SUP-016,Social compliance audit certificate,2025-05-19,2028-05-18
+CERT-0035,SUP-016,Environmental management certificate,2024-09-11,2027-09-11
+CERT-0036,SUP-016,Quality management certificate,2024-04-05,2027-04-05
+CERT-0037,SUP-017,Social compliance audit certificate,2023-09-13,2026-09-12
+CERT-0038,SUP-017,Environmental management certificate,2025-03-17,2028-03-16
+CERT-0039,SUP-017,Quality management certificate,2023-11-17,2026-11-16
+CERT-0040,SUP-018,Social compliance audit certificate,2023-09-05,2026-09-04
+CERT-0041,SUP-018,Quality management certificate,2025-02-24,2028-02-24
+CERT-0042,SUP-019,Quality management certificate,2024-04-16,2027-04-16
+CERT-0043,SUP-019,Environmental management certificate,2024-09-18,2027-09-18
+CERT-0044,SUP-019,Social compliance audit certificate,2024-12-26,2027-12-26
+CERT-0045,SUP-020,Quality management certificate,2023-12-23,2026-12-22
+CERT-0046,SUP-020,Social compliance audit certificate,2025-04-29,2028-04-28
+CERT-0047,SUP-020,Environmental management certificate,2025-03-23,2028-03-22
+CERT-0048,SUP-021,Quality management certificate,2024-02-03,2027-02-02
+CERT-0049,SUP-021,Social compliance audit certificate,2023-08-27,2026-08-26
+CERT-0050,SUP-021,Environmental management certificate,2024-04-30,2027-04-30
+CERT-0051,SUP-022,Social compliance audit certificate,2024-12-02,2027-12-02
+CERT-0052,SUP-022,Quality management certificate,2025-02-22,2028-02-22
+CERT-0053,SUP-022,Environmental management certificate,2025-04-29,2028-04-28
+CERT-0054,SUP-023,Social compliance audit certificate,2024-05-14,2027-05-14
+CERT-0055,SUP-023,Quality management certificate,2023-11-09,2026-11-08
+CERT-0056,SUP-023,Environmental management certificate,2024-08-11,2027-08-11
+CERT-0057,SUP-024,Quality management certificate,2024-06-03,2027-06-03
+CERT-0058,SUP-024,Social compliance audit certificate,2024-08-13,2027-08-13
+CERT-0059,SUP-025,Quality management certificate,2024-11-30,2027-11-30
+CERT-0060,SUP-025,Social compliance audit certificate,2024-11-02,2027-11-02
+CERT-0061,SUP-025,Environmental management certificate,2024-04-18,2027-04-18
+CERT-0062,SUP-026,Social compliance audit certificate,2023-10-13,2026-05-14
+CERT-0063,SUP-026,Quality management certificate,2025-01-11,2028-01-11
+CERT-0064,SUP-026,Environmental management certificate,2025-04-24,2026-06-04
+CERT-0065,SUP-027,Social compliance audit certificate,2025-01-19,2028-01-19
+CERT-0066,SUP-027,Quality management certificate,2023-09-15,2026-07-05
+CERT-0067,SUP-028,Environmental management certificate,2024-12-24,2027-12-24
+CERT-0068,SUP-028,Social compliance audit certificate,2025-04-21,2026-04-24
+CERT-0069,SUP-028,Quality management certificate,2024-12-21,2028-04-02
+CERT-0070,SUP-029,Social compliance audit certificate,2023-11-07,2026-11-06
+CERT-0071,SUP-029,Environmental management certificate,2024-03-08,2027-03-08
+CERT-0072,SUP-030,Quality management certificate,2024-03-30,2027-03-30
+CERT-0073,SUP-030,Environmental management certificate,2023-09-07,2026-09-06
+CERT-0074,SUP-030,Social compliance audit certificate,2024-08-23,2026-07-06
+CERT-0075,SUP-031,Social compliance audit certificate,2023-12-20,2026-12-19
+CERT-0076,SUP-031,Quality management certificate,2024-02-10,2027-02-09
+CERT-0077,SUP-031,Environmental management certificate,2024-12-18,2027-12-18
+CERT-0078,SUP-032,Environmental management certificate,2024-08-30,2027-08-30
+CERT-0079,SUP-032,Quality management certificate,2024-09-29,2027-09-29
+CERT-0080,SUP-032,Social compliance audit certificate,2024-04-11,2027-04-11
+CERT-0081,SUP-033,Environmental management certificate,2024-02-22,2027-02-21
+CERT-0082,SUP-033,Social compliance audit certificate,2024-11-27,2027-11-27
+CERT-0083,SUP-034,Social compliance audit certificate,2023-12-04,2026-12-03
+CERT-0084,SUP-034,Environmental management certificate,2024-04-18,2026-07-15
+CERT-0085,SUP-034,Quality management certificate,2024-06-30,2027-06-30
+CERT-0086,SUP-035,Environmental management certificate,2023-11-02,2026-11-01
+CERT-0087,SUP-035,Social compliance audit certificate,2023-09-01,2026-08-31
+CERT-0088,SUP-035,Quality management certificate,2024-03-15,2027-03-15
+CERT-0089,SUP-036,Environmental management certificate,2025-03-30,2028-03-29
+CERT-0090,SUP-036,Social compliance audit certificate,2024-12-05,2027-12-05
+CERT-0091,SUP-036,Quality management certificate,2024-06-30,2027-06-30
+CERT-0092,SUP-037,Social compliance audit certificate,2025-02-28,2028-02-28
+CERT-0093,SUP-037,Environmental management certificate,2024-05-14,2027-05-14
+CERT-0094,SUP-038,Quality management certificate,2024-03-02,2027-03-02
+CERT-0095,SUP-038,Social compliance audit certificate,2024-07-13,2027-07-13
+CERT-0096,SUP-039,Environmental management certificate,2024-02-08,2027-02-07
+CERT-0097,SUP-039,Quality management certificate,2023-12-14,2026-12-13
+CERT-0098,SUP-040,Environmental management certificate,2024-06-15,2027-06-15
+CERT-0099,SUP-040,Quality management certificate,2024-06-07,2027-06-07
+CERT-0100,SUP-041,Quality management certificate,2025-04-10,2028-04-09
+CERT-0101,SUP-041,Social compliance audit certificate,2024-09-24,2027-09-24
+CERT-0102,SUP-042,Quality management certificate,2024-07-11,2027-07-11
+CERT-0103,SUP-042,Environmental management certificate,2024-07-24,2027-07-24
+CERT-0104,SUP-043,Quality management certificate,2025-03-16,2028-03-15
+CERT-0105,SUP-043,Social compliance audit certificate,2025-02-04,2028-02-04
+CERT-0106,SUP-044,Social compliance audit certificate,2023-09-27,2026-09-26
+CERT-0107,SUP-044,Environmental management certificate,2025-02-17,2026-04-30
+CERT-0108,SUP-045,Quality management certificate,2023-08-23,2026-08-22
+CERT-0109,SUP-045,Environmental management certificate,2023-08-18,2026-08-17
+CERT-0110,SUP-045,Social compliance audit certificate,2024-06-30,2027-06-30
+CERT-0111,SUP-046,Quality management certificate,2024-12-22,2027-12-22
+CERT-0112,SUP-046,Social compliance audit certificate,2023-10-01,2026-09-30
+CERT-0113,SUP-046,Environmental management certificate,2024-04-21,2027-04-21
+CERT-0114,SUP-047,Social compliance audit certificate,2024-06-17,2027-06-17
+CERT-0115,SUP-047,Quality management certificate,2025-05-17,2028-05-16
+CERT-0116,SUP-048,Environmental management certificate,2024-03-11,2027-03-11
+CERT-0117,SUP-048,Social compliance audit certificate,2024-05-05,2027-05-05
+CERT-0118,SUP-049,Social compliance audit certificate,2023-11-23,2026-11-22
+CERT-0119,SUP-049,Environmental management certificate,2023-12-09,2026-12-08
+CERT-0120,SUP-050,Environmental management certificate,2025-04-30,2028-04-29
+CERT-0121,SUP-050,Quality management certificate,2024-08-23,2027-08-23
+CERT-0122,SUP-051,Environmental management certificate,2024-09-19,2027-09-19
+CERT-0123,SUP-051,Quality management certificate,2024-08-23,2026-05-12
+CERT-0124,SUP-051,Social compliance audit certificate,2024-11-06,2027-11-06
+CERT-0125,SUP-052,Social compliance audit certificate,2025-05-10,2028-05-09
+CERT-0126,SUP-052,Environmental management certificate,2024-08-09,2027-08-09
+CERT-0127,SUP-052,Quality management certificate,2024-05-29,2028-05-04
+CERT-0128,SUP-053,Quality management certificate,2024-07-01,2027-07-01
+CERT-0129,SUP-053,Environmental management certificate,2023-12-11,2026-12-10
+CERT-0130,SUP-054,Environmental management certificate,2025-01-31,2028-01-31
+CERT-0131,SUP-054,Social compliance audit certificate,2024-08-28,2027-08-28
+CERT-0132,SUP-055,Environmental management certificate,2024-12-07,2027-12-07
+CERT-0133,SUP-055,Social compliance audit certificate,2024-03-09,2027-03-09
+CERT-0134,SUP-056,Quality management certificate,2024-04-14,2027-04-14
+CERT-0135,SUP-056,Social compliance audit certificate,2024-11-13,2027-11-13
+CERT-0136,SUP-057,Social compliance audit certificate,2023-11-19,2026-11-18
+CERT-0137,SUP-057,Environmental management certificate,2023-10-24,2026-07-16
+CERT-0138,SUP-057,Quality management certificate,2025-02-08,2028-02-08
+CERT-0139,SUP-058,Social compliance audit certificate,2024-04-22,2027-04-22
+CERT-0140,SUP-058,Quality management certificate,2024-01-25,2027-01-24
+CERT-0141,SUP-058,Environmental management certificate,2024-11-29,2027-11-29
+CERT-0142,SUP-059,Social compliance audit certificate,2025-04-02,2028-04-01
+CERT-0143,SUP-059,Environmental management certificate,2024-11-18,2028-06-02
+CERT-0144,SUP-060,Environmental management certificate,2023-12-19,2026-12-18
+CERT-0145,SUP-060,Quality management certificate,2024-07-02,2027-07-02

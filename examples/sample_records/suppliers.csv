@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,other_origins,onboarded_date,insurance_expiry,code_of_conduct_ack_date,last_audit_date
+SUP-001,Ersatzia Corvalle Apparel Ltd,Country A,,2023-05-09,2027-03-30,2023-05-14,2025-12-26
+SUP-002,Vantrellow Eskerby Home GmbH,Country B,,2023-04-09,2027-05-31,2023-04-10,2025-09-07
+SUP-003,Ulvenor Grintholm Kitchenware Inc,Country B,,2022-05-04,2027-07-17,2022-05-08,2025-09-06
+SUP-004,Marrowby Corvalle Hand Pte Ltd,Country A,,2020-12-20,2026-10-30,2020-12-26,2026-01-19
+SUP-005,Ersatzia Netherwyn Electronics Inc,Country D,,2024-03-27,2027-01-14,2024-04-13,2025-11-11
+SUP-006,Ixcalune-Vesper Logistics GmbH,Country C,Country F,2022-08-24,2026-11-02,2022-09-03,2025-12-01
+SUP-007,Bellmoth Dunmorrow Furniture Ltd,Country A,,2023-08-19,2027-01-08,2023-08-23,2025-11-16
+SUP-008,Phestor Kestrelby Safety Inc,Country A,,2021-03-22,2026-08-14,2026-05-08,2025-09-13
+SUP-009,Kaldrith E. Commodities Pte Ltd,Country D,Country F,2022-10-26,2027-04-16,2022-11-04,2025-10-22
+SUP-010,Farnoux Lowenmark Home Ltd,Country A,,2021-06-06,2026-11-05,2021-06-22,2025-10-01
+SUP-011,Vantrellow Corvalle Kitchenware Pte Ltd,Country A,,2021-05-03,2027-06-06,2021-05-18,2025-10-19
+SUP-012,Drumlinn Islingmere Hand Inc,Country A,,2024-02-12,2027-04-26,2024-03-01,2026-01-28
+SUP-013,Zorvex Marlin Trading Co,Country A,Country C,2021-10-06,2026-12-10,,2025-11-10
+SUP-014,Cindelle Mossgravenn Toys GmbH,Country E,Country B,2021-08-29,2027-01-22,2021-09-01,2025-12-28
+SUP-015,Farnoux Brackwen Furniture S.A.,Country A,,2021-07-10,2027-04-08,2021-07-21,2025-12-19
+SUP-016,Tindrel Lowenmark Safety Co,Country B,Country E,2020-12-16,2027-01-09,2020-12-25,2026-03-01
+SUP-017,Yarrowick Kestrelby Apparel Pte Ltd,Country E,Country F,2021-10-06,2026-06-01,2021-10-22,2026-02-12
+SUP-018,Wexholm Juniperre Home Inc,Country C,,2021-07-04,2026-08-29,2021-07-07,2026-01-06
+SUP-019,Cindelle Grintholm Kitchenware Ltd,Country A,,2021-12-14,2027-05-02,2021-12-23,2026-01-18
+SUP-020,Kyvorath Fallowmere Hand Pte Ltd,Country B,,2023-06-03,2027-02-18,,2025-10-29
+SUP-021,Zentiqor Brackwen Electronics Pte Ltd,Country E,Country F,2021-06-13,2027-05-23,2021-06-25,2026-01-18
+SUP-022,Oskarovel Mossgravenn Toys Pte Ltd,Country B,,2021-12-24,2026-09-29,2021-12-25,2026-01-28
+SUP-023,Ostrélle Pemberwick Industries,Country D,,2022-01-18,2026-09-06,2022-02-03,2025-12-16
+SUP-024,Ersatzia Grintholm Safety Co,Country A,,2021-01-03,2027-05-02,2021-01-10,2025-05-23
+SUP-025,Dravenmor Halcyon Export Co,Country D,Country B,2021-11-08,2027-04-29,2021-11-21,2025-08-05
+SUP-026,Tindrel Islingmere Home GmbH,Country D,,2023-04-08,2027-05-24,2023-04-21,2025-11-28
+SUP-027,Bellmoth Kestrelby Kitchenware GmbH,Country E,Country D,2023-05-26,2026-08-19,2023-06-08,2026-01-04
+SUP-028,Lumentraq Mossgravenn Hand Inc,Country C,,2023-04-22,2027-04-03,2023-04-30,2026-01-11
+SUP-029,Vantrellow Grintholm Electronics GmbH,Country B,,2023-11-17,2027-07-20,2023-11-25,2025-12-12
+SUP-030,Quorvane Corvalle Toys LLC,Country A,,2024-03-08,2027-05-12,2024-03-10,2025-08-22
+SUP-031,Ersatzia Orrinshaw Furniture GmbH,Country B,,2021-10-12,2027-01-27,2021-10-23,2025-02-12
+SUP-032,Zentiqor Orrinshaw Safety Pte Ltd,Country D,Country C,2021-09-07,2026-05-22,2021-09-13,2026-01-29
+SUP-033,Wexholm Netherwyn Apparel Ltd,Country A,,2023-11-19,2027-01-06,2023-11-27,2025-11-11
+SUP-034,Ghalwick Obsidian Holding LLC,Country A,,2023-01-26,2026-09-02,2023-01-30,2025-09-27
+SUP-035,Yuneska Thornhall Group Inc,Country C,,2021-03-14,2027-04-26,2021-03-29,2026-06-15
+SUP-036,Yarrowick Orrinshaw Hand Ltd,Country D,,2021-06-29,2027-02-21,2021-07-17,2026-01-20
+SUP-037,Brumvale Quartus Metals Ltd,Country E,,2022-05-08,2027-02-15,2026-05-21,2025-08-31
+SUP-038,Phestor Aldermist Toys S.A.,Country A,,2021-01-06,2027-07-11,2021-01-15,2026-06-19
+SUP-039,Drumlinn Juniperre Furniture Pte Ltd,Country A,Country D,2023-04-20,2027-04-30,,2025-12-29
+SUP-040,Lumentraq Kestrelby Safety GmbH,Country D,Country C,2021-06-20,2027-07-20,2021-06-22,2026-01-08
+SUP-041,Ersatzia Dunmorrow Apparel Pte Ltd,Country C,,2021-02-20,2026-09-13,2021-03-07,2026-01-24
+SUP-042,Kyvorath Dunmorrow Home Inc,Country D,Country C,2022-05-13,2027-07-17,2022-05-30,2026-01-12
+SUP-043,Quorvane Pellaton Kitchenware Inc,Country F,,2023-12-03,2026-05-21,2023-12-13,2025-09-01
+SUP-044,Wexholm Lowenmark Hand Ltd,Country F,,2023-06-05,2027-01-03,2023-06-07,2026-01-13
+SUP-045,Shipping Tessarow Nightjar Inc,Country E,,2022-08-23,2027-02-28,2022-08-30,2025-12-01
+SUP-046,Brumvale Quietus Metal Co,Country D,Country F,2023-06-24,2026-08-27,2023-06-27,2025-08-20
+SUP-047,Phestor Orrinshaw Furniture S.A.,Country B,,2024-02-23,2027-07-10,2024-03-10,2025-10-17
+SUP-048,Lumentraq Eskerby Safety Co,Country C,,2023-11-13,2027-03-25,2023-11-29,2026-02-25
+SUP-049,Yarrowick Netherwyn Apparel S.A.,Country A,,2021-01-13,2026-08-28,2021-01-21,2026-03-10
+SUP-050,Quorvane Eskerby Home Ltd,Country D,,2023-02-11,2027-07-04,,2026-02-03
+SUP-051,Zorvex Marlune Trading Ltd,Country D,,2022-06-05,2027-01-21,2022-06-22,2025-09-05
+SUP-052,Marrowby Netherwyn Hand Inc,Country D,,2022-11-29,2026-09-25,2022-12-01,2026-02-02
+SUP-053,Tindrel Grintholm Electronics Ltd,Country B,,2021-08-12,2027-03-26,2021-08-27,2026-01-13
+SUP-054,Oskarovel Kestrelby Toys Co,Country B,,2024-02-11,2026-09-07,2024-03-01,2025-04-03
+SUP-055,Ulvenor Juniperre Furniture GmbH,Country B,,2023-06-21,2027-02-25,2023-06-30,2025-03-19
+SUP-056,Cindelle Dunmorrow Safety GmbH,Country A,,2022-05-24,2027-05-11,2022-06-08,2026-03-10
+SUP-057,Yarrowick Corvalle Apparel LLC,Country E,Country D,2021-08-14,2026-09-09,2021-08-28,2026-02-09
+SUP-058,Farnoux Hexwold Home LLC,Country C,Country A,2022-10-31,2027-05-21,2022-11-18,2025-08-06
+SUP-059,Vantrellow Fallowmere Kitchenware Co,Country B,Country E,2021-12-21,2027-03-12,2021-12-22,2025-12-19
+SUP-060,Cindelle Orrinshaw Hand GmbH,Country C,,2021-08-15,2026-12-07,2021-08-29,2026-01-21

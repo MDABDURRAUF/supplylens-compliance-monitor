@@ -1,0 +1,121 @@
+product_id,product_name,category,supplier_id,tariff_code,material_declaration_date
+PRD-0001,Microfibre table cloths,Home textiles,SUP-018,2001.21.7970,2025-11-28
+PRD-0002,Glass kettles,Kitchenware,SUP-059,3047.29.8450,2025-10-18
+PRD-0003,Aluminium screwdrivers,Hand tools and hardware,SUP-004,4016.20.0439,2025-12-18
+PRD-0004,Chrome vanadium steel drill bits,Hand tools and hardware,SUP-052,4015.56.9702,2026-02-27
+PRD-0005,Aluminium speakers,Electronics accessories,SUP-013,5027.54.3793,2025-02-15
+PRD-0006,Polyester gloves,Apparel,SUP-057,1029.88.9126,2025-10-31
+PRD-0007,Cotton goggles,Safety equipment,SUP-008,8060.69.3876,2023-12-06
+PRD-0008,Plastic charging cables,Electronics accessories,SUP-037,5027.54.3793,2025-03-15
+PRD-0009,Brass screwdrivers,Hand tools and hardware,SUP-028,4016.20.0439,2025-07-12
+PRD-0010,Cardboard building blocks,Toys and games,SUP-014,6053.34.9648,2024-12-23
+PRD-0011,Cardboard plush toys,Toys and games,SUP-022,6037.65.8300,2025-05-29
+PRD-0012,Wool trousers,Apparel,SUP-025,1029.88.9126,2025-12-17
+PRD-0013,Aluminium hinges,Hand tools and hardware,SUP-036,4016.20.0439,2025-08-24
+PRD-0014,Aluminium charging cables,Electronics accessories,SUP-045,5027.54.3793,2026-01-27
+PRD-0015,Cotton trousers,Apparel,SUP-017,1094.66.6841,2025-11-11
+PRD-0016,Steel chairs,Furniture,SUP-023,7010.75.5077,2025-07-04
+PRD-0017,Bamboo cutlery sets,Kitchenware,SUP-003,3047.29.8450,2025-07-06
+PRD-0018,Rubber ear defenders,Safety equipment,SUP-016,8023.23.3815,2026-03-10
+PRD-0019,Steel wrenches,Hand tools and hardware,SUP-020,4015.56.9702,2025-03-21
+PRD-0020,Linen caps,Apparel,SUP-049,1089.85.2252,2025-05-24
+PRD-0021,Plastic toy cars,Toys and games,SUP-046,6088.94.8471,2025-10-20
+PRD-0022,Steel chairs,Furniture,SUP-047,7068.42.6432,2025-02-13
+PRD-0023,Plastic ear defenders,Safety equipment,SUP-016,8023.23.3815,2025-05-03
+PRD-0024,Plastic power adapters,Electronics accessories,SUP-013,5088.28.7209,2025-10-14
+PRD-0025,Linen caps,Apparel,SUP-025,1029.88.9126,2024-11-16
+PRD-0026,Polyester curtains,Home textiles,SUP-026,2081.37.3416,2025-09-23
+PRD-0027,Cardboard building blocks,Toys and games,SUP-046,6037.65.8300,2025-11-29
+PRD-0028,Brass hinges,Hand tools and hardware,SUP-052,4047.84.6292,
+PRD-0029,Linen caps,Apparel,SUP-025,1094.66.6841,
+PRD-0030,Plastic speakers,Electronics accessories,SUP-013,5027.54.3793,2025-12-14
+PRD-0031,Linen towels,Home textiles,SUP-054,2081.37.3416,2025-03-23
+PRD-0032,Cotton shirts,Apparel,SUP-033,1089.85.2252,2025-04-24
+PRD-0033,Plastic goggles,Safety equipment,SUP-056,8081.61.9787,2025-11-21
+PRD-0034,Plastic safety gloves,Safety equipment,SUP-024,8023.23.3815,2025-04-13
+PRD-0035,Ceramic chopping boards,Kitchenware,SUP-019,3047.29.8450,2025-01-10
+PRD-0036,Chrome vanadium steel hinges,Hand tools and hardware,SUP-004,4047.84.6292,2025-08-27
+PRD-0037,Aluminium charging cables,Electronics accessories,SUP-045,5027.54.3793,2025-10-18
+PRD-0038,Wood puzzles,Toys and games,SUP-030,6053.34.9648,2026-06-01
+PRD-0039,Polyester safety gloves,Safety equipment,SUP-016,8023.23.3815,2025-10-08
+PRD-0040,Bamboo saucepans,Kitchenware,SUP-027,3058.59.5094,2025-03-03
+PRD-0041,Linen gloves,Apparel,SUP-009,1089.85.2252,2024-11-09
+PRD-0042,Ceramic cutlery sets,Kitchenware,SUP-059,3058.59.5094,
+PRD-0043,Linen caps,Apparel,SUP-027,1089.85.2252,2025-03-23
+PRD-0044,Bamboo mixing bowls,Kitchenware,SUP-019,3058.59.5094,2025-06-06
+PRD-0045,Aluminium keyboards,Electronics accessories,SUP-037,5088.28.7209,2025-05-09
+PRD-0046,Plastic goggles,Safety equipment,SUP-048,8081.61.9787,2023-06-28
+PRD-0047,Wool shirts,Apparel,SUP-057,1089.85.2252,2025-07-18
+PRD-0048,Linen socks,Apparel,SUP-041,1094.66.6841,2025-06-29
+PRD-0049,Cotton jackets,Apparel,SUP-009,1094.66.6841,2025-06-06
+PRD-0050,Polyester blankets,Home textiles,SUP-026,2028.99.4450,2026-01-13
+PRD-0051,Ceramic storage jars,Kitchenware,SUP-043,3058.59.5094,2025-12-28
+PRD-0052,Linen rugs,Home textiles,SUP-050,2028.99.4450,2025-11-06
+PRD-0053,Silicone speakers,Electronics accessories,SUP-029,5027.54.3793,2026-02-26
+PRD-0054,Brass pliers,Hand tools and hardware,SUP-052,4016.20.0439,2025-10-01
+PRD-0055,Cotton safety gloves,Safety equipment,SUP-008,8081.61.9787,2025-03-23
+PRD-0056,Plastic charging cables,Electronics accessories,SUP-021,5027.54.3793,2025-03-15
+PRD-0057,Ceramic saucepans,Kitchenware,SUP-059,3099.73.6221,2025-11-17
+PRD-0058,Brass hammers,Hand tools and hardware,SUP-012,4016.20.0439,2024-11-26
+PRD-0059,Microfibre blankets,Home textiles,SUP-042,2081.37.3416,2024-12-06
+PRD-0060,Aluminium phone cases,Electronics accessories,SUP-013,5027.54.3793,2025-08-18
+PRD-0061,Rubber ear defenders,Safety equipment,SUP-008,8081.61.9787,2025-08-02
+PRD-0062,Steel shelves,Furniture,SUP-010,7068.42.6432,
+PRD-0063,Glass cabinets,Furniture,SUP-055,7005.76.4735,2026-03-17
+PRD-0064,Bamboo storage jars,Kitchenware,SUP-059,3058.59.5094,2025-08-26
+PRD-0065,Bamboo stools,Furniture,SUP-007,7005.76.4735,2025-10-12
+PRD-0066,Glass frying pans,Kitchenware,SUP-043,3099.73.6221,2025-06-20
+PRD-0067,Polyester toy cars,Toys and games,SUP-006,6037.65.8300,2025-02-10
+PRD-0068,Polyester table cloths,Home textiles,SUP-050,2081.37.3416,2025-08-02
+PRD-0069,Steel wrenches,Hand tools and hardware,SUP-020,4015.56.9702,2025-10-13
+PRD-0070,Glass cutlery sets,Kitchenware,SUP-003,3099.73.6221,2025-02-09
+PRD-0071,Wool gloves,Apparel,SUP-057,1089.85.2252,2025-12-07
+PRD-0072,Cotton ear defenders,Safety equipment,SUP-056,8060.69.3876,2025-02-10
+PRD-0073,Microfibre rugs,Home textiles,SUP-002,2081.37.3416,2025-02-13
+PRD-0074,Leather goggles,Safety equipment,SUP-024,8060.69.3876,2025-02-02
+PRD-0075,Cotton high-visibility vests,Safety equipment,SUP-056,8023.23.3815,2024-05-22
+PRD-0076,Plastic board games,Toys and games,SUP-022,6053.34.9648,2024-12-09
+PRD-0077,Aluminium power adapters,Electronics accessories,SUP-037,5027.54.3793,2025-02-18
+PRD-0078,Silicone keyboards,Electronics accessories,SUP-053,5088.28.7209,2024-12-21
+PRD-0079,Plastic speakers,Electronics accessories,SUP-005,5088.28.7209,2025-08-26
+PRD-0080,Cardboard toy cars,Toys and games,SUP-030,6053.34.9648,2025-10-21
+PRD-0081,Bamboo saucepans,Kitchenware,SUP-035,3058.59.5094,2025-06-30
+PRD-0082,Cotton goggles,Safety equipment,SUP-056,8023.23.3815,2023-08-19
+PRD-0083,Aluminium bolts,Hand tools and hardware,SUP-028,4016.20.0439,2023-11-23
+PRD-0084,Ceramic mixing bowls,Kitchenware,SUP-051,3099.73.6221,2026-02-16
+PRD-0085,Polyester rugs,Home textiles,SUP-034,2028.99.4450,2025-03-13
+PRD-0086,Polyester blankets,Home textiles,SUP-026,2028.99.4450,2023-07-14
+PRD-0087,Aluminium power adapters,Electronics accessories,SUP-045,5027.54.3793,2025-11-14
+PRD-0088,Glass saucepans,Kitchenware,SUP-051,3099.73.6221,2025-12-09
+PRD-0089,Cotton trousers,Apparel,SUP-041,1094.66.6841,2025-04-17
+PRD-0090,Plastic toy cars,Toys and games,SUP-038,6088.94.8471,2025-05-28
+PRD-0091,Steel wrenches,Hand tools and hardware,SUP-060,4047.84.6292,2026-03-06
+PRD-0092,Bamboo mixing bowls,Kitchenware,SUP-037,3058.59.5094,2025-10-28
+PRD-0093,Linen rugs,Home textiles,SUP-010,2028.99.4450,2025-03-15
+PRD-0094,Leather ear defenders,Safety equipment,SUP-056,8060.69.3876,2026-02-03
+PRD-0095,Polyester scarves,Apparel,SUP-049,1094.66.6841,2025-01-01
+PRD-0096,Steel tables,Furniture,SUP-023,7010.75.5077,2025-12-09
+PRD-0097,Polyester caps,Apparel,SUP-025,1094.66.6841,2026-05-12
+PRD-0098,Plastic goggles,Safety equipment,SUP-040,8023.23.3815,2025-09-08
+PRD-0099,Wood bed frames,Furniture,SUP-047,7010.75.5077,2025-03-02
+PRD-0100,Stainless steel cutlery sets,Kitchenware,SUP-043,3099.73.6221,2025-08-28
+PRD-0101,Polyester board games,Toys and games,SUP-054,6037.65.8300,2025-12-18
+PRD-0102,Silicone phone cases,Electronics accessories,SUP-005,5025.18.1924,2025-09-08
+PRD-0103,Brass hinges,Hand tools and hardware,SUP-060,4015.56.9702,2025-08-13
+PRD-0104,Cardboard puzzles,Toys and games,SUP-030,6088.94.8471,2025-12-29
+PRD-0105,Rubber ear defenders,Safety equipment,SUP-016,8081.61.9787,2026-01-29
+PRD-0106,Silicone phone cases,Electronics accessories,SUP-013,5027.54.3793,2026-05-05
+PRD-0107,Aluminium wrenches,Hand tools and hardware,SUP-028,4016.20.0439,2025-10-04
+PRD-0108,Glass chopping boards,Kitchenware,SUP-019,3099.73.6221,2025-01-29
+PRD-0109,Polyester shirts,Apparel,SUP-057,1094.66.6841,2024-03-24
+PRD-0110,Wood board games,Toys and games,SUP-030,6037.65.8300,2026-01-04
+PRD-0111,Wool trousers,Apparel,SUP-057,1089.85.2252,2025-07-30
+PRD-0112,Linen shirts,Apparel,SUP-041,1094.66.6841,2025-01-15
+PRD-0113,Bamboo shelves,Furniture,SUP-023,7068.42.6432,2025-06-19
+PRD-0114,Wool dresses,Apparel,SUP-025,1089.85.2252,2025-02-19
+PRD-0115,Linen socks,Apparel,SUP-057,1094.66.6841,2024-11-23
+PRD-0116,Polyester high-visibility vests,Safety equipment,SUP-040,8023.23.3815,2025-01-30
+PRD-0117,Wool jackets,Apparel,SUP-025,1094.66.6841,
+PRD-0118,Plastic speakers,Electronics accessories,SUP-045,5027.54.3793,2025-03-20
+PRD-0119,Wood chairs,Furniture,SUP-023,7005.76.4735,2025-02-01
+PRD-0120,Cardboard board games,Toys and games,SUP-014,6088.94.8471,2025-11-19

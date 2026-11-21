@@ -1,0 +1,219 @@
+[
+  {
+    "id": "DOC-01",
+    "title": "Shipment documents on file",
+    "category": "document completeness",
+    "severity": "high",
+    "applies_to": "shipment",
+    "check": "documents_on_file",
+    "description": "Every document in required_documents is marked as on file for the shipment, once grace_days have passed since entry.",
+    "remediation": "Obtain the missing document from the supplier or forwarder and attach it to the entry file.",
+    "params": {
+      "required_documents": [
+        "commercial_invoice",
+        "packing_list",
+        "bill_of_lading",
+        "certificate_of_origin"
+      ],
+      "grace_days": 0
+    },
+    "enabled": true
+  },
+  {
+    "id": "DOC-02",
+    "title": "Code of conduct acknowledged",
+    "category": "document completeness",
+    "severity": "medium",
+    "applies_to": "supplier",
+    "check": "acknowledgment_on_file",
+    "description": "The supplier has a code-of-conduct acknowledgment date, once grace_days have passed since onboarding.",
+    "remediation": "Send the code of conduct to the supplier and record the date of the signed acknowledgment.",
+    "params": {
+      "grace_days": 30
+    },
+    "enabled": true
+  },
+  {
+    "id": "DOC-03",
+    "title": "Material declaration on file",
+    "category": "document completeness",
+    "severity": "medium",
+    "applies_to": "product",
+    "check": "declaration_on_file",
+    "description": "The product has a material declaration date.",
+    "remediation": "Request a material declaration for the product from the supplier and record its date.",
+    "params": {},
+    "enabled": true
+  },
+  {
+    "id": "EXP-01",
+    "title": "Certificate expired",
+    "category": "expiry",
+    "severity": "high",
+    "applies_to": "certificate",
+    "check": "certificate_expired",
+    "description": "The certificate's expiry date plus grace_days is before the check date.",
+    "remediation": "Request the renewed certificate from the supplier and update the expiry date.",
+    "params": {
+      "grace_days": 0
+    },
+    "enabled": true
+  },
+  {
+    "id": "EXP-02",
+    "title": "Certificate expiring soon",
+    "category": "expiry",
+    "severity": "low",
+    "applies_to": "certificate",
+    "check": "certificate_expiring",
+    "description": "The certificate has not expired and expires within days_ahead days.",
+    "remediation": "Ask the supplier for the renewal plan before the certificate lapses.",
+    "params": {
+      "days_ahead": 30
+    },
+    "enabled": true
+  },
+  {
+    "id": "EXP-03",
+    "title": "Insurance expired",
+    "category": "expiry",
+    "severity": "high",
+    "applies_to": "supplier",
+    "check": "insurance_expired",
+    "description": "The supplier's insurance expiry date plus grace_days is before the check date, or no date is recorded.",
+    "remediation": "Request a current certificate of insurance and update the expiry date.",
+    "params": {
+      "grace_days": 0
+    },
+    "enabled": true
+  },
+  {
+    "id": "EXP-04",
+    "title": "Supplier audit overdue",
+    "category": "expiry",
+    "severity": "medium",
+    "applies_to": "supplier",
+    "check": "audit_age",
+    "description": "The supplier's last audit is older than max_age_months, or no audit date is recorded.",
+    "remediation": "Schedule an audit and record its date.",
+    "params": {
+      "max_age_months": 12
+    },
+    "enabled": true
+  },
+  {
+    "id": "EXP-05",
+    "title": "Material declaration out of date",
+    "category": "expiry",
+    "severity": "low",
+    "applies_to": "product",
+    "check": "declaration_age",
+    "description": "The product's material declaration is older than max_age_months.",
+    "remediation": "Request an updated material declaration from the supplier.",
+    "params": {
+      "max_age_months": 24
+    },
+    "enabled": true
+  },
+  {
+    "id": "CON-01",
+    "title": "Tariff code format",
+    "category": "data consistency",
+    "severity": "medium",
+    "applies_to": "shipment",
+    "check": "code_format",
+    "description": "The tariff code fully matches the regular expression in pattern. The default expects digits written as 0000.00.0000.",
+    "remediation": "Correct the tariff code on the entry; confirm the classification with your customs broker.",
+    "params": {
+      "pattern": "\\d{4}\\.\\d{2}\\.\\d{4}"
+    },
+    "enabled": true
+  },
+  {
+    "id": "CON-02",
+    "title": "Origin differs from supplier's countries",
+    "category": "data consistency",
+    "severity": "medium",
+    "applies_to": "shipment",
+    "check": "origin_on_record",
+    "description": "The shipment's country of origin is the supplier's country or one of the supplier's other_origins.",
+    "remediation": "Confirm the origin with the supplier. Correct the entry, or add the country to the supplier's other_origins if it is legitimate.",
+    "params": {},
+    "enabled": true
+  },
+  {
+    "id": "CON-03",
+    "title": "Declared unit value out of line",
+    "category": "data consistency",
+    "severity": "medium",
+    "applies_to": "shipment",
+    "check": "unit_value_outlier",
+    "description": "The declared value per unit is not an outlier among shipments with the same tariff code (robust score within threshold).",
+    "remediation": "Compare the declared value and quantity with the commercial invoice; correct a keying or unit error, or note why the value is right.",
+    "params": {
+      "method": "robust",
+      "threshold": 4.5,
+      "min_group": 10,
+      "contamination": 0.02
+    },
+    "enabled": true
+  },
+  {
+    "id": "CON-04",
+    "title": "Description does not fit tariff chapter",
+    "category": "data consistency",
+    "severity": "medium",
+    "applies_to": "shipment",
+    "check": "description_fits_chapter",
+    "description": "A text classifier trained on these records does not find the declared chapter unlikely for the goods description.",
+    "remediation": "Have the classification reviewed by your customs broker; correct the code or the description.",
+    "params": {
+      "chapter_digits": 2,
+      "max_declared_probability": 0.05,
+      "min_predicted_probability": 0.5
+    },
+    "enabled": true
+  },
+  {
+    "id": "TIM-01",
+    "title": "Filed after deadline",
+    "category": "timeliness",
+    "severity": "high",
+    "applies_to": "shipment",
+    "check": "filed_by_deadline",
+    "description": "The entry was filed by the end of the day deadline_days days after the entry date.",
+    "remediation": "File the entry if it is still open, and record the reason for the delay.",
+    "params": {
+      "deadline_days": 5
+    },
+    "enabled": true
+  },
+  {
+    "id": "RET-01",
+    "title": "Records purged before retention period",
+    "category": "record retention",
+    "severity": "high",
+    "applies_to": "shipment",
+    "check": "retention_period",
+    "description": "The shipment's records were not purged within retention_years years of the entry date.",
+    "remediation": "Restore the records from backup or obtain copies from the broker or supplier.",
+    "params": {
+      "retention_years": 5
+    },
+    "enabled": true
+  },
+  {
+    "id": "SCR-01",
+    "title": "Name resembles a screening-list entry",
+    "category": "screening",
+    "severity": "critical",
+    "applies_to": "supplier",
+    "check": "name_screening",
+    "description": "The supplier's name does not score at or above threshold against any entry on the loaded screening list.",
+    "remediation": "Have a person review the potential match against identifying details (address, registration, ownership) and record the outcome. The score alone decides nothing.",
+    "params": {
+      "threshold": 0.85
+    },
+    "enabled": true
+  }
+]
